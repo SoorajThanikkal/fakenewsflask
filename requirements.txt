@@ -1,6 +1,6 @@
-flask
+fastapi
+uvicorn
 tensorflow
 tensorflow-hub
-tensorflow-text
-nltk
 gdown
+nltk
